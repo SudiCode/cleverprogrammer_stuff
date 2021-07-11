@@ -1,1 +1,1 @@
-print("Hello, Clever Programmers!")
+print("Hello, Clever SudiCode!")

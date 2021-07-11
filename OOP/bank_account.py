@@ -13,13 +13,13 @@ class BankAccount:
         return "{} Amount: {}".format(self.account_type, self.amount)
 
 
-qazi = BankAccount("Checkings", 100)
-print(qazi.account_type)
-print(qazi.amount)
+sudi= BankAccount("Checkings", 100)
+print(sudi.account_type)
+print(sudi.amount)
 
-qazi.deposit(30)
-print(qazi.amount)
+sudi.deposit(30)
+print(sudi.amount)
 
-qazi.withdraw(45)
-print(qazi)
-print(qazi.amount)
+sudi.withdraw(45)
+print(sudi)
+print(sudi.amount)
